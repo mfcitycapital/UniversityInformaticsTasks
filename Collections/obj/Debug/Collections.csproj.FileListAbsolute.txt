@@ -1,0 +1,6 @@
+/Users/arslanrashidov/RiderProjects/Solution/Collections/bin/Debug/Collections.exe
+/Users/arslanrashidov/RiderProjects/Solution/Collections/bin/Debug/Collections.pdb
+/Users/arslanrashidov/RiderProjects/Solution/Collections/obj/Debug/Collections.csprojAssemblyReference.cache
+/Users/arslanrashidov/RiderProjects/Solution/Collections/obj/Debug/Collections.csproj.CoreCompileInputs.cache
+/Users/arslanrashidov/RiderProjects/Solution/Collections/obj/Debug/Collections.exe
+/Users/arslanrashidov/RiderProjects/Solution/Collections/obj/Debug/Collections.pdb
