@@ -1,0 +1,6 @@
+/Users/arslanrashidov/RiderProjects/Solution/TheControlWork3/bin/Debug/TheControlWork3.exe
+/Users/arslanrashidov/RiderProjects/Solution/TheControlWork3/bin/Debug/TheControlWork3.pdb
+/Users/arslanrashidov/RiderProjects/Solution/TheControlWork3/obj/Debug/TheControlWork3.csprojAssemblyReference.cache
+/Users/arslanrashidov/RiderProjects/Solution/TheControlWork3/obj/Debug/TheControlWork3.csproj.CoreCompileInputs.cache
+/Users/arslanrashidov/RiderProjects/Solution/TheControlWork3/obj/Debug/TheControlWork3.exe
+/Users/arslanrashidov/RiderProjects/Solution/TheControlWork3/obj/Debug/TheControlWork3.pdb
